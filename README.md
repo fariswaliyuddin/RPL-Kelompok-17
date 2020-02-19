@@ -9,9 +9,9 @@ Greentips! adalah web yang menyediakan layanan seputar tips kesehatan setiap har
 Greentips! bertujuan agar masyarakat Indonesia dapat menerapkan hidup pola sehat dengan mudah. Kami berharap dengan adanya web ini, masyarakat Indonesia menjadi lebih memperhatikan kondisi tubuh mereka.
 
 ### Fitur
-Fitur yang kami sediakan berdasarkan kuisioner yang disebar kepada beberapa mahasiswa di Institut Pertanian Bogor
+Fitur yang kami sediakan berdasarkan kuisioner yang disebar kepada beberapa mahasiswa di Institut Pertanian Bogor.
+
 | Fitur | Keterangan |
-publishable as-is, as plain text, without
 | ----- | ---------- |
 | *Heatlh News* | Menyediakan berita terkini mengenai kesehatan |
 | *Article* | Intinya sama kaya *Health News* cuman artikel |
