@@ -3,7 +3,7 @@ Greentips! adalah web yang menyediakan layanan seputar tips kesehatan setiap har
 
   - Muhammad Faris Waliyuddin (G64180067)
   - Tia Isnawati Noor (G64180034)
-  - Ihsan Fadhillah Wika Putra (G64180072)
+  - Ihsan Fadhillah Wika Putra (G64180071)
 
 ### Tujuan
 Greentips! bertujuan agar masyarakat Indonesia dapat menerapkan hidup pola sehat dengan mudah. Kami berharap dengan adanya web ini, masyarakat Indonesia menjadi lebih memperhatikan kondisi tubuh mereka.
