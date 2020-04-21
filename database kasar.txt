@@ -1,0 +1,43 @@
+CREATE DATABASE greentips;
+
+/c greentips
+
+CREATE TABLE user(
+id_user INT(4),
+username VARCHAR(30) NOT NULL,
+password VARCHAR(20) NOT NULL,
+tanggaLahir DATE NOT NULL,
+e-mail VARCHAR(25) NOT NULL,
+CONSTRAINT username_PK PRIMARY KEY(username, id));
+
+CREATE TABLE bmi(
+id_BMICalculator INT(5) NOT NULL,
+id_pengguna INT(4) NOT NULL,
+beratBadan INT(3) NOT NULL,
+tinggiBadan INT(3) NOT NULL,
+CONSTRAINT IDBMICalculator_PK PRIMARY KEY(id_BMICalculator)
+CONSTRAINT IDPengguna_FK FOREIGN KEY(id_pengguna));
+
+CREATE TABLE daily_tips(
+id_dailytips CHAR(3) NOT NULL,
+tips VARCHAR(50),
+weather INT(1) NOT NULL,
+CONSTRAINT IDdailytips_PK PRIMARY KEY(id_dailytips));
+
+CREATE TABLE NFood (
+id_nutrionFood INT(3) NOT NULL,
+id_pengguna INT(4) NOT NULL,
+NamaMakanan VARCHAR(20),
+Nutrisi INT(5),
+CONSTRAINT IDnutrionFood_PK PRIMARY KEY(id_nutrionFood)
+CONSTRAINT IDPengguna_FK FOREIGN KEY(id_pengguna))
+
+CREATE TABLE article (
+id_article CHAR(3) NOT NULL,
+judul VARCHAR(50),
+CONSTRAINT IDarticle_PK PRIMARY KEY(id_article));
+
+CREATE TABLE healthnews(
+id_news CHAR(3) NOT NULL,
+judul VARCHAR(50),
+CONSTRAINT IDnews_PK PRIMARY KEY(id_article));
