@@ -17,3 +17,4 @@ Fitur yang kami sediakan berdasarkan kuisioner yang disebar kepada beberapa maha
 | *Article* | Intinya sama kaya *Health News* cuman artikel |
 | *BMI Calculator* | Menyediakan kalkulator untuk menghitung *Body Mass Index* dan kategorinya |
 | *Nutrition Calculator* | Menghitung nutrisi makanan yang ingin dicari |
+| *Daily Tips* | Menyediakan tips untuk menjaga kesehatan dan lingkungan |
