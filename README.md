@@ -56,7 +56,11 @@ persona
 
 
 ### Use case description
-
+| Nama Use Case | Membaca *Article* |
+| ------------- | --------------- |
+| Aktor | *Web user* |
+| Deskripsi | Menjelaskan cara untuk membaca *article* |
+| *Successful Completion* | *Web user* menekan tab *article*, *Web user* menekan *article* yang ingin dibaca, *Web user* membaca artikel |
 ### Activity diagram
 
 ### Gantt chart
