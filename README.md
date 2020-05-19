@@ -60,11 +60,20 @@ persona
 | ------------- | --------------- |
 | Aktor | *Web user* |
 | Deskripsi | Menjelaskan cara untuk membaca *article* |
-| *Successful Completion* | *Web user* menekan tab *article*, *Web user* menekan *article* yang ingin dibaca, *Web user* membaca artikel |
+| *Successful Completion* | *Web user* menekan tab *article*, *Web user* memilih *article* yang ingin dibaca, *Web user* membaca artikel |
 | Alternatif | Tidak ada |
 | *Precondition* | *Web user* sudah *log in* terlebih dahulu |
-| *Post Condition* | Sistem menemukan artikel yang ingin dibaca *web user*, *web user* membaca artikel |
+| *Post Condition* | Sistem menampilkan *article* yang sudah dipilih *web user*, *web user* membaca *article* |
 | Asumsi | Tidak ada |
+
+| Nama Use Case | Mengakses *News* |
+| Aktor | *Web user* |
+| Deskripsi | Menjelaskan cara untuk mengakses *news* |
+| *Succesful Completion* | *Web user* menekan tab *news*, *Web user* memilih *news* yang ingin dibaca, *Web user* membaca *news* | 
+| Alternatif | Tidak ada |
+| *Precondition* | *Web user log in* terlebih dahulu |
+| *Post Condition* | Sistem menampilkan *news* yang sudah dipilih, *web user* membaca *news* |
+| Asumsi | Tidak ada | 
 
 
 ### Activity diagram
