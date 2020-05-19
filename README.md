@@ -5,7 +5,7 @@ Greentips! adalah web yang menyediakan layanan seputar tips kesehatan setiap har
   - Tia Isnawati Noor (G64180034)
   - Ihsan Fadhillah Wika Putra (G64180071)
 ### Latar Belakang
-	Banyak warga Indonesia yang memiliki banyak aktivitas dalam kesehariannya. Sehingga banyak yang tidak memiliki waktu luang 
+  Banyak warga Indonesia yang memiliki banyak aktivitas dalam kesehariannya. Sehingga banyak yang tidak memiliki waktu luang 
   untuk memedulikan kesehatan dan lingkungannya masing-masing serta mengabaikannya. Hal itu mengakibatkan munculnya banyak 
   penyakit beresiko di kemudian hari. Solusinya adalah butuhnya pengingat akan gaya hidup agar kesehatan selalu terjaga. Portal 
   berita maupun bacaan penting bagi kesehatan dan lingkungan yang tersebar di internet pun tidak dibaca dikarenakan kurangnya minat 
