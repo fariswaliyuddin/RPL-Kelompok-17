@@ -48,7 +48,7 @@ Greentips! adalah aplikasi berbasis web. Greentips ini akan memberikan tips-tips
 Sebagai *webuser*, saya ingin menghitung bmi dengan memasukkan data berupa berat badan dan tinggi badan, dengan satuan yang bisa dipilih cm atau inch dan kg atau lb. Bisa juga melihat hasil hitungannya beserta kategorinya. Saya juga ingin melihat tips harian beserta artikel dan berita yang terkait dengan tips tersebut. Saya juga ingin membaca artikel dan berita kesehatan. Saya juga ingin mengetahui nutrisi makanan.
 
 ### Use case diagram
-
+![Use Case Diagram](https://user-images.githubusercontent.com/54407018/82333338-d0b68c00-9a10-11ea-98d4-256348f4650e.png)
 
 ### Use case description
 
