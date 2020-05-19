@@ -51,5 +51,5 @@ API			: Open Weather Map
 ### Activity diagram
 ### Gantt chart
 ### ERD
-![Database Diagram](https://drive.google.com/file/d/1yOu-O1webVeo-3UfpZ2KvWnU_BHSUsi6/view?usp=sharing)
+![Database Diagram](greentips(1).png)
 ### Hasil implementasi pernagkat lunak
