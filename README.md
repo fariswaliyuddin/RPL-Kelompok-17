@@ -52,6 +52,8 @@ Sebagai masyarakat, saya ingin menghitung bmi dengan memasukkan data berupa bera
 
 ### Use case description
 
+Article
+
 | Nama Use Case | Membaca *Article* |
 | ------------- | --------------- |
 | Aktor | *Web user* |
@@ -61,6 +63,8 @@ Sebagai masyarakat, saya ingin menghitung bmi dengan memasukkan data berupa bera
 | *Precondition* | *Web user* sudah *log in* terlebih dahulu |
 | *Post Condition* | Sistem menampilkan *article* yang sudah dipilih *web user*, *web user* membaca *article* |
 | Asumsi | Tidak ada |
+
+Helath News
 
 | Nama Use Case | Mengakses *News* |
 | ------------- | ---------------- |
@@ -72,11 +76,15 @@ Sebagai masyarakat, saya ingin menghitung bmi dengan memasukkan data berupa bera
 | *Post Condition* | Sistem menampilkan *news* yang sudah dipilih, *web user* membaca *news* |
 | Asumsi | Tidak ada | 
 
+Nutrition of Food
+
 | Nama Use Case | Mengetahui Nutrisi dari Makanan | 
 | ------------ | ------------------------------- |
 | Aktor | *Web user* |
 | Deskripsi | Menjelaskan cara untuk mengetahui nutrisi dari makanan |
 | *Successful Completion* | *Web user* menekan tab *Nutrition of Food*, *Web user* memilih |
+
+BMI Calculator
 
 | Nama Use Case | Menggunakan *BMI Calculator* | 
 | ------------- | ---------------------------- | 
@@ -110,6 +118,7 @@ Daily Tips
 ![Activity Diagram Daily Tips](https://user-images.githubusercontent.com/54407018/82317307-3cd8c600-99f8-11ea-958d-122b4559ab0a.png)
 
 ### Gantt chart
+![gantt (2)](https://user-images.githubusercontent.com/54407018/82387815-367f3400-9a62-11ea-92cf-4fded5ec25c6.png)
 
 ### ERD
 ![greentips (1)](https://user-images.githubusercontent.com/54407018/82300215-b49af680-99e0-11ea-931f-d9c8eadefcde.png)
