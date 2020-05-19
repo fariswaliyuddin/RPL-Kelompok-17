@@ -102,7 +102,7 @@ Sebagai *webuser*, saya ingin menghitung bmi dengan memasukkan data berupa berat
 
 
 ### Activity diagram
-![Activity Diagram Article](https://user-images.githubusercontent.com/54407018/82315668-d5ba1200-99f5-11ea-99e8-98fd5433f07c.png)
+![Activity Diagram Article](https://user-images.githubusercontent.com/54407018/82328436-115ed700-9a0a-11ea-8537-c90a9eccbdf0.png)
 ![Activity Diagram BMI Calculator](https://user-images.githubusercontent.com/54407018/82315986-5c6eef00-99f6-11ea-8628-1917f655d814.png)
 ![Activity Diagram Health News](https://user-images.githubusercontent.com/54407018/82316544-2716d100-99f7-11ea-9aa7-5320a2b3e81d.png)
 ![Activity Diagram Daily Tips](https://user-images.githubusercontent.com/54407018/82317307-3cd8c600-99f8-11ea-958d-122b4559ab0a.png)
