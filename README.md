@@ -41,11 +41,11 @@ Lainnya
 Greentips! adalah aplikasi berbasis web. Greentips ini akan memberikan tips-tips harian berkaitan dengan kesehatan dan lingkungan yang bisa diterapkan oleh pengguna, menyediakan kalkulator bmi untuk menghitung bmi, news, article, dan nutrition of food untuk mencari tahu kandungan pada suatu makanan.
 
 ### Analisis user(user profiles)
-Target user 
-persona
+- Target user 
+- user persona
 
 ### User story
-
+Sebagai *webuser*, saya ingin menghitung bmi dengan memasukkan data berupa berat badan dan tinggi badan, dengan satuan yang bisa dipilih cm atau inch dan kg atau lb. Bisa juga melihat hasil hitungannya beserta kategorinya. Saya juga ingin melihat tips harian beserta artikel dan berita yang terkait dengan tips tersebut. Saya juga ingin membaca artikel dan berita kesehatan. Saya juga ingin mengetahui nutrisi makanan.
 
 ### Use case diagram
 
@@ -111,6 +111,7 @@ persona
 
 ### ERD
 ![greentips (1)](https://user-images.githubusercontent.com/54407018/82300215-b49af680-99e0-11ea-931f-d9c8eadefcde.png)
+
 ### Hasil implementasi pernagkat lunak
 Tampilan log in / sign in:
 
