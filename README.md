@@ -27,19 +27,20 @@ Fitur yang kami sediakan berdasarkan kuisioner yang disebar kepada beberapa maha
 
 ### Ruang Lingkup
 Perangkat Keras 
-Prosesor 	: Intel i7 7700HK 2.8Ghz
-Memori	: DDR4 8GB
-Graphic card 	: GDDR5 GTX 1050 4GB
-Storage 	: SSD 256 GB dan HDD 1TB
+- Prosesor 	: Intel i7 7700HK 2.8Ghz
+- Memori	: DDR4 8GB
+- Graphic card 	: GDDR5 GTX 1050 4GB
+- Storage 	: SSD 256 GB dan HDD 1TB
 
 Perangkat Lunak 
-Framework/Stack 	: Laravel					
-Database 		: MySQL
-Server 			: Apache PHP server
-Text Editor/IDE	: Sublime text
+- Framework/Stack 	: Laravel					
+- Database 		: MySQL
+- Server 			: Apache PHP server
+- Text Editor/IDE	: Sublime text
+
 Lainnya 
-Development time 	: Trello
-API			: Open Weather Map
+- Development time 	: Trello
+- API			: Open Weather Map
 
 ### Deskripsi perangkat lunak
 
