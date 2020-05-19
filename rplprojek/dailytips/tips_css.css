@@ -109,6 +109,20 @@
   padding: 150px 70px 70px 350px;
 }
 
+.tombol input[type=button]{
+  width: 30%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.tombol input[type=button]:hover{
+  background-color: #45A049;
+}
 .main{
   background-color: white;
   width: 690px;
