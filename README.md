@@ -61,6 +61,12 @@ persona
 | Aktor | *Web user* |
 | Deskripsi | Menjelaskan cara untuk membaca *article* |
 | *Successful Completion* | *Web user* menekan tab *article*, *Web user* menekan *article* yang ingin dibaca, *Web user* membaca artikel |
+| Alternatif | Tidak ada |
+| *Precondition* | *Web user* sudah *log in* terlebih dahulu |
+| *Post Condition* | Sistem menemukan artikel yang ingin dibaca *web user*, *web user* membaca artikel |
+| Asumsi | Tidak ada |
+
+
 ### Activity diagram
 
 ### Gantt chart
