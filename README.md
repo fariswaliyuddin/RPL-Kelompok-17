@@ -88,6 +88,7 @@ Sebagai *webuser*, saya ingin menghitung bmi dengan memasukkan data berupa berat
 | *Post Condition* | *Web user* dapat melihat hasilnya |
 | Asumsi | Tidak ada |
 
+####Daily Tips
 | Nama Use Case | Mengakses *Daily Tips* |
 | ------------- | ---------------------- |
 | Aktor | *Web user* | 
