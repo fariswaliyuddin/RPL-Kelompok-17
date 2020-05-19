@@ -68,6 +68,7 @@ persona
 | Asumsi | Tidak ada |
 #### *News*
 | Nama Use Case | Mengakses *News* |
+| ------------- | ---------------- |
 | Aktor | *Web user* |
 | Deskripsi | Menjelaskan cara untuk mengakses *news* |
 | *Succesful Completion* | *Web user* menekan tab *news*, *Web user* memilih *news* yang ingin dibaca, *Web user* membaca *news* | 
