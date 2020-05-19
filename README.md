@@ -56,7 +56,7 @@ persona
 
 
 ### Use case description
-#### *Article*
+
 | Nama Use Case | Membaca *Article* |
 | ------------- | --------------- |
 | Aktor | *Web user* |
@@ -66,7 +66,7 @@ persona
 | *Precondition* | *Web user* sudah *log in* terlebih dahulu |
 | *Post Condition* | Sistem menampilkan *article* yang sudah dipilih *web user*, *web user* membaca *article* |
 | Asumsi | Tidak ada |
-#### *News*
+
 | Nama Use Case | Mengakses *News* |
 | ------------- | ---------------- |
 | Aktor | *Web user* |
