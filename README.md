@@ -116,12 +116,13 @@ Daily Tips
 
 ### Hasil implementasi pernagkat lunak
 Tampilan log in / sign in:
+![Untitled](https://user-images.githubusercontent.com/54407018/82376929-109b6480-9a4d-11ea-8be8-7020c85c2ff1.png)
 
 Tampilan Sign up:
 ![Untitled (2)](https://user-images.githubusercontent.com/54407018/82340523-8554ab80-9a19-11ea-8476-f72027831968.png)
 
 Tampilan Daily Tips:
-![Untitled](https://user-images.githubusercontent.com/54407018/82340868-ec726000-9a19-11ea-8b84-61a61ae26e73.png)
+![tips (2)](https://user-images.githubusercontent.com/54407018/82377106-607a2b80-9a4d-11ea-9dac-09d75371459d.png)
 
 Tampilan News:
 
@@ -133,5 +134,7 @@ Tampilan Article:
 Tampilan Nutrition of Food:
 
 Tampilan Profile:
+![profile (2)](https://user-images.githubusercontent.com/54407018/82377630-29584a00-9a4e-11ea-8ef9-9a500c063f39.png)
 
 Tampilan Edit Profile:
+![editprofile (2)](https://user-images.githubusercontent.com/54407018/82377829-763c2080-9a4e-11ea-871a-202fde7a6bcd.png)
