@@ -28,8 +28,7 @@ Perangkat Keras
 - Graphic card 	: GDDR5 GTX 1050 4GB
 - Storage 	: SSD 256 GB dan HDD 1TB
 
-Perangkat Lunak 
-- Framework/Stack 	: Laravel					
+Perangkat Lunak 				
 - Database 		: MySQL
 - Server 			: Apache PHP server
 - Text Editor/IDE	: Sublime text
