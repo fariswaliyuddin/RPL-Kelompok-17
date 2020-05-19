@@ -43,14 +43,39 @@ Lainnya
 - API			: Open Weather Map
 
 ### Deskripsi perangkat lunak
+Greentips! adalah aplikasi berbasis web. Greentips ini akan memberikan tips-tips harian berkaitan dengan kesehatan dan lingkungan yang bisa diterapkan oleh pengguna, menyediakan kalkulator bmi untuk menghitung bmi, news, article, dan nutrition of food untuk mencari tahu kandungan pada suatu makanan.
 
 ### Analisis user(user profiles)
+Target user 
+persona
 
 ### User story
+
+
 ### Use case diagram
+
+
 ### Use case description
+
 ### Activity diagram
+
 ### Gantt chart
+
 ### ERD
 ![greentips (1)](https://user-images.githubusercontent.com/54407018/82300215-b49af680-99e0-11ea-931f-d9c8eadefcde.png)
 ### Hasil implementasi pernagkat lunak
+Tampilan log in / sign in:
+
+Tampilan Sign up:
+
+Tampilan Daily Tips:
+ 
+Tampilan News:
+
+Tampilan Article:
+
+Tampilan Nutrition of Food:
+
+Tampilan Profile:
+
+Tampilan Edit Profile:
