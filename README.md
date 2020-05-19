@@ -82,7 +82,11 @@ Nutrition of Food
 | ------------ | ------------------------------- |
 | Aktor | *Web user* |
 | Deskripsi | Menjelaskan cara untuk mengetahui nutrisi dari makanan |
-| *Successful Completion* | *Web user* menekan tab *Nutrition of Food*, *Web user* memilih |
+| *Successful Completion* | *Web user* menekan tab *Nutrition of Food*, *Web user* memilih kategori makanan, pilih makanan, *web user* membaca hasil |
+| Alternatif | Tidak ada |
+| *Precondition* | *Web user log in* terlebih dahulu |
+| *Post Condition* | Sistem menampilkan nutrisi makanan yang sudah dipilih |
+| Asumsi | Tidak ada |
 
 BMI Calculator
 
@@ -109,8 +113,6 @@ Daily Tips
 | Asumsi | Tidak ada |
 
 
-
-
 ### Activity diagram
 ![Activity Diagram Article](https://user-images.githubusercontent.com/54407018/82328436-115ed700-9a0a-11ea-8537-c90a9eccbdf0.png)
 ![Activity Diagram BMI Calculator](https://user-images.githubusercontent.com/54407018/82315986-5c6eef00-99f6-11ea-8628-1917f655d814.png)
@@ -123,7 +125,7 @@ Daily Tips
 ### ERD
 ![greentips (1)](https://user-images.githubusercontent.com/54407018/82300215-b49af680-99e0-11ea-931f-d9c8eadefcde.png)
 
-### Hasil implementasi pernagkat lunak
+### Hasil implementasi perangkat lunak
 Tampilan log in / sign in:
 ![Untitled](https://user-images.githubusercontent.com/54407018/82376929-109b6480-9a4d-11ea-8be8-7020c85c2ff1.png)
 
@@ -134,11 +136,13 @@ Tampilan Daily Tips:
 ![tips (2)](https://user-images.githubusercontent.com/54407018/82377106-607a2b80-9a4d-11ea-9dac-09d75371459d.png)
 
 Tampilan News:
+![news (2)](https://user-images.githubusercontent.com/54407018/82388789-a68eb980-9a64-11ea-84f6-64b2a3052062.png)
 
 Tampilan BMI Calculator:
 ![bmi (2)](https://user-images.githubusercontent.com/54407018/82341222-53901480-9a1a-11ea-870d-5e953daf85b2.png)
 
 Tampilan Article:
+![article (2)](https://user-images.githubusercontent.com/54407018/82388489-f15c0180-9a63-11ea-97d6-a22a3866e8b4.png)
 
 Tampilan Nutrition of Food:
 
