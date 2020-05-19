@@ -103,6 +103,7 @@ persona
 
 
 ### Activity diagram
+![Activity Diagram Article](https://user-images.githubusercontent.com/54407018/82315668-d5ba1200-99f5-11ea-99e8-98fd5433f07c.png)
 
 ### Gantt chart
 
