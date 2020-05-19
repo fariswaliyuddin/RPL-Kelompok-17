@@ -118,10 +118,15 @@ Daily Tips
 Tampilan log in / sign in:
 
 Tampilan Sign up:
+![Untitled (2)](https://user-images.githubusercontent.com/54407018/82340523-8554ab80-9a19-11ea-8476-f72027831968.png)
 
 Tampilan Daily Tips:
- 
+![Untitled](https://user-images.githubusercontent.com/54407018/82340868-ec726000-9a19-11ea-8b84-61a61ae26e73.png)
+
 Tampilan News:
+
+Tampilan BMI Calculator:
+![bmi (2)](https://user-images.githubusercontent.com/54407018/82341222-53901480-9a1a-11ea-870d-5e953daf85b2.png)
 
 Tampilan Article:
 
