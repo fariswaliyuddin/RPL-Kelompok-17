@@ -77,6 +77,34 @@ persona
 | *Post Condition* | Sistem menampilkan *news* yang sudah dipilih, *web user* membaca *news* |
 | Asumsi | Tidak ada | 
 
+| Nama Use Case | Mengetahui Nutrisi dari Makanan | 
+| ------------ | ------------------------------- |
+| Aktor | *Web user* |
+| Deskripsi | Menjelaskan cara untuk mengetahui nutrisi dari makanan |
+| *Successful Completion* | *Web user* menekan tab *Nutrition of Food*, *Web user* memilih |
+
+| Nama Use Case | Menggunakan *BMI Calculator* | 
+| ------------- | ---------------------------- | 
+| Aktor | *Web user* |
+| Deskripsi | Menjelaskan cara untuk menggunakan *BMI Calculator* |
+| *Successful Completion* | *Web user* menekan tab *BMI Calculator*, *Web user* memberikan input berat badan dan tinggi badan, Sistem akan mengeluarkan output hasil hitungan dan kategorinya |
+| Alternatif | Tidak ada |
+| *Precondition* | *Web user log in* terlebih dahulu |
+| *Post Condition* | *Web user* dapat melihat hasilnya |
+| Asumsi | Tidak ada |
+
+| Nama Use Case | Mengakses *Daily Tips* |
+| ------------- | ---------------------- |
+| Aktor | *Web user* | 
+| Deskripsi | Menjelaskan cara untuk mengakses *Daily Tips* |
+| *Successful Completion* | *Web user* menekan tab *Daily Tips*, *Web user* akan melihat *daily tips* |
+| Alternatif | Tidak ada |
+| *Precondition* | *Web user* sudah *log in* terlebih dahulu |
+| *Post Condition* | Sistem menampilkan *daily tips* |
+| Asumsi | Tidak ada |
+
+
+
 
 ### Activity diagram
 
