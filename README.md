@@ -131,6 +131,7 @@ Daily Tips
 ![Activity Diagram BMI Calculator](https://user-images.githubusercontent.com/54407018/82315986-5c6eef00-99f6-11ea-8628-1917f655d814.png)
 ![Activity Diagram Health News](https://user-images.githubusercontent.com/54407018/82316544-2716d100-99f7-11ea-9aa7-5320a2b3e81d.png)
 ![Activity Diagram Daily Tips](https://user-images.githubusercontent.com/54407018/82317307-3cd8c600-99f8-11ea-958d-122b4559ab0a.png)
+![Activity Diagram Nutrition of Food](https://user-images.githubusercontent.com/54407018/82392643-9a0f5e80-9a6e-11ea-9ffb-dd6162644793.png)
 
 ### Gantt chart
 ![gantt (2)](https://user-images.githubusercontent.com/54407018/82387815-367f3400-9a62-11ea-92cf-4fded5ec25c6.png)
@@ -158,6 +159,7 @@ Tampilan Article:
 ![article (2)](https://user-images.githubusercontent.com/54407018/82388489-f15c0180-9a63-11ea-97d6-a22a3866e8b4.png)
 
 Tampilan Nutrition of Food:
+![NoF](https://user-images.githubusercontent.com/54407018/82392805-fb373200-9a6e-11ea-91bb-842f3e1643bb.jpg)
 
 Tampilan Profile:
 ![profile (2)](https://user-images.githubusercontent.com/54407018/82377630-29584a00-9a4e-11ea-8ef9-9a500c063f39.png)
