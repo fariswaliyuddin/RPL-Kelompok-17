@@ -1,4 +1,4 @@
-# Greentips!
+# ![logo](https://user-images.githubusercontent.com/60166714/82419794-0a3ad600-9aa9-11ea-8b20-ae7b999f3e42.PNG)
 Greentips! adalah web yang menyediakan layanan seputar tips kesehatan setiap harinya. Web ini dibuat oleh kelompok 17 beranggotakan :
 
   - Muhammad Faris Waliyuddin (G64180067)
