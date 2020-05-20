@@ -140,10 +140,10 @@ Daily Tips
 
 ### Hasil implementasi perangkat lunak
 Tampilan log in / sign in:
-![Untitled](https://user-images.githubusercontent.com/54407018/82376929-109b6480-9a4d-11ea-8be8-7020c85c2ff1.png)
+![loginpage](https://user-images.githubusercontent.com/60166714/82418545-51c06280-9aa7-11ea-88dc-28c1a456b4b0.PNG)
 
 Tampilan Sign up:
-![Untitled (2)](https://user-images.githubusercontent.com/54407018/82340523-8554ab80-9a19-11ea-8476-f72027831968.png)
+![register](https://user-images.githubusercontent.com/60166714/82418993-f5117780-9aa7-11ea-9d7f-15275a132520.PNG)
 
 Tampilan Daily Tips:
 ![tips (2)](https://user-images.githubusercontent.com/54407018/82377106-607a2b80-9a4d-11ea-9dac-09d75371459d.png)
