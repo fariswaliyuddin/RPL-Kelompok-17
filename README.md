@@ -34,8 +34,7 @@ Perangkat Lunak
 - Text Editor/IDE	: Sublime text
 
 Lainnya 
-- Development time 	: Trello
-- API			: Open Weather Map
+- Development time 	: Trello, TeamGantt
 
 ### Deskripsi perangkat lunak
 Greentips! adalah aplikasi berbasis web. Greentips ini akan memberikan tips-tips harian berkaitan dengan kesehatan dan lingkungan yang bisa diterapkan oleh pengguna, menyediakan kalkulator bmi untuk menghitung bmi, news, article, dan nutrition of food untuk mencari tahu kandungan pada suatu makanan.
