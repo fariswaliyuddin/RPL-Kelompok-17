@@ -76,7 +76,7 @@ Article
 | *Post Condition* | Sistem menampilkan *article* yang sudah dipilih *web user*, *web user* membaca *article* |
 | Asumsi | Tidak ada |
 
-Helath News
+Health News
 
 | Nama Use Case | Mengakses *News* |
 | ------------- | ---------------- |
