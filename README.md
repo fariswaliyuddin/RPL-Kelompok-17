@@ -135,6 +135,8 @@ Daily Tips
 ### Gantt chart
 ![gantt (2)](https://user-images.githubusercontent.com/54407018/82387815-367f3400-9a62-11ea-92cf-4fded5ec25c6.png)
 
+https://prod.teamgantt.com/gantt/schedule/?ids=2126393#&ids=2126393&user=&custom=&company=&hide_completed=false&date_filter=&color_filter=
+
 ### ERD
 ![greentips (1)](https://user-images.githubusercontent.com/54407018/82300215-b49af680-99e0-11ea-931f-d9c8eadefcde.png)
 
